@@ -19,7 +19,10 @@ public class SocietyController {
         this.societyService = societyService;
     }
 
+<<<<<<< HEAD:socialhub/src/main/java/com/kian/socialhub/controller/SocietyController.Java
     
+=======
+>>>>>>> a3ccbd5577306ac1c965df72f32cea134556f9e8:socialhub/src/main/java/com/kian/socialhub/controller/SocietyController.java
     @GetMapping
     public List<Society> getAllSocieties() {
         return societyService.getAllSocieties();
