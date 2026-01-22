@@ -19,8 +19,10 @@ public class SocietyController {
         this.societyService = societyService;
     }
 
+    
     @GetMapping
     public List<Society> getAllSocieties() {
         return societyService.getAllSocieties();
     }
 }
+
