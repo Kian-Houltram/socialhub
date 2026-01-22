@@ -1,9 +1,10 @@
 package com.kian.socialhub.service;
 
-import com.kian.socialhub.model.Society;
+import java.util.List;
+
 import org.springframework.stereotype.Service;
 
-import java.util.List; 
+import com.kian.socialhub.model.Society; 
 
 @Service
 public class SocietyService {
