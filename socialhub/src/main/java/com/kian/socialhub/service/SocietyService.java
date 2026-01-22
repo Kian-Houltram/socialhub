@@ -16,8 +16,3 @@ public class SocietyService {
         );
     }
 }
-<<<<<<< HEAD:socialhub/src/main/java/com/kian/socialhub/service/SocietyService.Java
-
-
-=======
->>>>>>> a3ccbd5577306ac1c965df72f32cea134556f9e8:socialhub/src/main/java/com/kian/socialhub/service/SocietyService.java
