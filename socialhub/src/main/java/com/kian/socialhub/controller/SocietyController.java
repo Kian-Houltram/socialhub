@@ -18,7 +18,7 @@ public class SocietyController {
         this.societyService = societyService;
     }
 
-    @getMapping
+    @GetMapping
     public List<Society> getAllSocieties() {
         return societyService.getAllSocieties();
     }
