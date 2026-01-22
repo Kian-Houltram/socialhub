@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List; 
 
-@service
+@Service
 public class SocietyService {
     public List<Society> getAllSocieties() {
         return List.of(
